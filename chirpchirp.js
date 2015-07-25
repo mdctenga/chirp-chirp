@@ -1,5 +1,7 @@
 module.exports = chirpderp;
 
+var chirpCount = [];
+
 function chirpderp (){
-  return 1;
+
 }
